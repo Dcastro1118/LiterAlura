@@ -1,4 +1,4 @@
-package com.desafioalura.LiterAlura;
+package com.desafioalura.literalura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
